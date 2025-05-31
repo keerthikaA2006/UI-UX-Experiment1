@@ -1,9 +1,8 @@
 # UI-UX-Experiment1
 
 ## Aim:
-
-To Explore the fundamentals of UI and UX, Differentiate between UI and UX using real-world case studies,Illustrate the relationship between UI and UX in design, Demonstrate various UI/UX design tools in detail.
-
+ To explore the Hands-on UI/UX Experiments
+ 
 ## Algorithm:
 1. **Learn the Basics**
    Understand what UI (visual design) and UX (user experience) mean, and why both are important.
