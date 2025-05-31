@@ -1,4 +1,4 @@
-# UI-UX-Experiment1
+## EX.1: UI-UX-Experiment
 
 ## Aim:
  To explore the Hands-on UI/UX Experiments
